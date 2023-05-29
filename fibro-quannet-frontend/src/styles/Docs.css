@@ -1,0 +1,15 @@
+.docs-view {
+  display: flex;
+  width: 100vw;
+  height: 81.2vh;
+  justify-content: center;
+}
+
+.docs-content {
+  margin-top: 5vh;
+  flex-direction: column;
+  display: flex;
+  width: 80vw;
+  max-width: 1200px;
+  align-items:flex-start;
+}

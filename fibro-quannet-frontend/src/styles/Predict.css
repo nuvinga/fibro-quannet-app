@@ -1,0 +1,46 @@
+.predict-box {
+  display: flex;
+  width: 100vw;
+  max-width: 100%;
+  min-height: 81.2vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-image: url(../assets/background.jpg); */
+  background-position: right top;
+  background-attachment: fixed;
+  background-size:cover;
+}
+
+.upload-card {
+  background-color: aliceblue;
+  width: 70vw;
+  min-height: 40vh;
+  max-width: 1000px;
+  box-shadow: 10px 10px 5px lightblue;
+  border-radius: 25px;
+  border: 2px solid #0a4275;
+  padding: 50px;
+}
+
+.upload-card-loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70vw;
+  min-height: 40vh;
+  max-width: 1000px;
+  box-shadow: 10px 10px 5px lightblue;
+  border-radius: 25px;
+  border: 2px solid #0a4275;
+  padding: 50px;
+}
+
+.predictions-table {
+  background-color: aliceblue;
+  width: 80vw;
+  box-shadow: 10px 10px 5px lightblue;
+  border-radius: 25px;
+  border: 2px solid #0a4275;
+  padding: 50px;
+}
