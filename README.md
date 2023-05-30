@@ -1,6 +1,6 @@
 # Fibro-QuanNet - Codebase
 
-Researched & Developed By: Nuvin Godakanda Arachchi
+> Researched & Developed By: [Nuvin Godakanda Arachchi](https://nuvinga.github.io)
 
 Fibro-QuanNet is a Pulmonary Fibrosis Prognosis Prediction application utilizing
 Quantum Machine Learning to accurately predict the likely prognosis of PF
