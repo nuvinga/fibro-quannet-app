@@ -25,6 +25,33 @@ evaluation matrix and MRSE and MSE scores.
 
 The model utilises the [OSIC Pulmonary Fibrosis Dataset](https://www.osicild.org/) for training and basic testing of the model performance.
 
+## Requirements
+
+<ul>
+  <li><b>Data</b></li>
+  <ul>
+    <li><a href="https://www.osicild.org/" target="_blank">Open-Source Imaging Consortium</a></li>
+  </ul>
+  <li><b>Software</b></li>
+  <ul>
+    <li>Windows/ Mac/ Linux Operating System</li>
+    <li>Python 3</li>
+    <li>NodeJS</li>
+  </ul>
+  <li><b>Hardware</b></li>
+  <ul>
+    <li>Intel Core i7 (10th Gen)/ Apple M1 Pro or higher</li>
+    <li>Quantum Hardware</li>
+    <ul>
+      <li>IBM Quantum (Provided through IBM-Quantum Labs/ PennyLane)</li>
+      <li>Google Cirq (Provided through Cirq/ PennyLane</li>
+    </ul>
+  </ul>
+</ul>
+
+For a more comprehensive set of requirements, refer to Chapter 3 in the full paper, available 
+through [Fibro-QuanNet](https://github.com/nuvinga/fibro-quannet) repository or [DOI](http://dx.doi.org/10.13140/RG.2.2.25905.76642/1).
+
 ## How to run Fibro-QuanNet
 
 The application consists of three main components
